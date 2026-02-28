@@ -29,7 +29,7 @@
 :is(.fas, .far, .fab, .fa-solid, .fa-regular, .fa-brands, .fa-classic, .fa):before {
   content: var(--fa);
   content: var(--fa) / "";
-}
+} 
 .fa-1x {
   font-size: 1em;
 }
